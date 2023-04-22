@@ -1,2 +1,2 @@
 # nlp
-Tutorials on natural language processing
+Tutorials that I have completed in order to learn various areas of NLP.
